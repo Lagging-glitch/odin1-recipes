@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Norican&display=swap");
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Norican", cursive;
+}
+
+/* Styling */
+body {
+  line-height: 1.5;
+  background-color: #f2efc7;
+  color: #333;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+img {
+  border-radius: 1.5em;
+}
+
+div {
+  padding: 1em;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
