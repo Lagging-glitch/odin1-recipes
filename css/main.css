@@ -5,14 +5,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Norican", cursive;
 }
 
 /* Body Styling */
 body {
-  line-height: 2;
+  font-family: "Norican", cursive;
   background-color: #f2efc7;
   color: #333;
+  line-height: 2;
   padding: 1.5em 3em;
 }
 
